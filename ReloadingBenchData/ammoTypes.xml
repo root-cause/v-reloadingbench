@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmmoTypes>
+  <!-- Pistol -->
+  <Item id="AMMO_PISTOL" name="Pistol Ammo" />
+  <Item id="AMMO_PISTOL_FMJ" name="Pistol Full Metal Jacket Ammo" />
+  <Item id="AMMO_PISTOL_HOLLOWPOINT" name="Pistol Hollow Point Ammo" />
+  <Item id="AMMO_PISTOL_INCENDIARY" name="Pistol Incendiary Ammo" />
+  <Item id="AMMO_PISTOL_TRACER" name="Pistol Tracer Ammo" />
+
+  <!-- SMG -->
+  <Item id="AMMO_SMG" name="SMG Ammo" />
+  <Item id="AMMO_SMG_FMJ" name="SMG Full Metal Jacket Ammo" />
+  <Item id="AMMO_SMG_HOLLOWPOINT" name="SMG Hollow Point Ammo" />
+  <Item id="AMMO_SMG_INCENDIARY" name="SMG Incendiary Ammo" />
+  <Item id="AMMO_SMG_TRACER" name="SMG Tracer Ammo" />
+
+  <!-- Shotgun -->
+  <Item id="AMMO_SHOTGUN" name="Shotgun Shell" />
+  <Item id="AMMO_SHOTGUN_ARMORPIERCING" name="Steel Buckshot Shell" />
+  <Item id="AMMO_SHOTGUN_EXPLOSIVE" name="Explosive Slug" />
+  <Item id="AMMO_SHOTGUN_HOLLOWPOINT" name="Flechette Shell" />
+  <Item id="AMMO_SHOTGUN_INCENDIARY" name="Dragon's Breath Shell" />
+
+  <!-- Rifle -->
+  <Item id="AMMO_RIFLE" name="Rifle Ammo" />
+  <Item id="AMMO_RIFLE_ARMORPIERCING" name="Rifle Armor Piercing Ammo" />
+  <Item id="AMMO_RIFLE_FMJ" name="Rifle Full Metal Jacket Ammo" />
+  <Item id="AMMO_RIFLE_INCENDIARY" name="Rifle Incendiary Ammo" />
+  <Item id="AMMO_RIFLE_TRACER" name="Rifle Tracer Ammo" />
+
+  <!-- MG -->
+  <Item id="AMMO_MG" name="MG Ammo" />
+  <Item id="AMMO_MG_ARMORPIERCING" name="MG Armor Piercing Ammo" />
+  <Item id="AMMO_MG_FMJ" name="MG Full Metal Jacket Ammo" />
+  <Item id="AMMO_MG_INCENDIARY" name="MG Incendiary Ammo" />
+  <Item id="AMMO_MG_TRACER" name="MG Tracer Ammo" />
+
+  <!-- Sniper -->
+  <Item id="AMMO_SNIPER" name="Sniper Ammo" />
+  <Item id="AMMO_SNIPER_ARMORPIERCING" name="Sniper Armor Piercing Ammo" />
+  <Item id="AMMO_SNIPER_EXPLOSIVE" name="Sniper Explosive Ammo" />
+  <Item id="AMMO_SNIPER_FMJ" name="Sniper Full Metal Jacket Ammo" />
+  <Item id="AMMO_SNIPER_INCENDIARY" name="Sniper Incendiary Ammo" />
+  <Item id="AMMO_SNIPER_TRACER" name="Sniper Tracer Ammo" />
+
+  <!-- Misc. -->
+  <Item id="AMMO_MINIGUN" name="Minigun Ammo" />
+</AmmoTypes>

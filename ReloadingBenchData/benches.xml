@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Benches>
+  <Bench id="64314cb8-e19c-440f-b3a0-79bc9751a6d0">
+    <Owner>Michael</Owner>
+    <Position>
+      <X>-812.9811</X>
+      <Y>189.4631</Y>
+      <Z>71.4794</Z>
+    </Position>
+    <Rotation>
+      <X>0.0</X>
+      <Y>0.0</Y>
+      <Z>21.0</Z>
+    </Rotation>
+  </Bench>
+  <Bench id="6e0f65d4-de2e-4052-8324-37a75457211c">
+    <Owner>Franklin</Owner>
+    <Position>
+      <X>-26.0654</X>
+      <Y>-1424.777</Y>
+      <Z>29.6584</Z>
+    </Position>
+    <Rotation>
+      <X>0.0</X>
+      <Y>0.0</Y>
+      <Z>0.0</Z>
+    </Rotation>
+  </Bench>
+  <Bench id="09c0f5b3-a2ab-4845-9195-cd77ecee9e07">
+    <Owner>Franklin</Owner>
+    <Position>
+      <X>25.1940</X>
+      <Y>542.8151</Y>
+      <Z>175.0284</Z>
+    </Position>
+    <Rotation>
+      <X>0.0</X>
+      <Y>0.0</Y>
+      <Z>-119.0</Z>
+    </Rotation>
+  </Bench>
+  <Bench id="68534459-96fc-4ad1-ac0a-18a45c5e2832">
+    <Owner>Trevor</Owner>
+    <Position>
+      <X>1965.1824</X>
+      <Y>3821.7603</Y>
+      <Z>31.3977</Z>
+    </Position>
+    <Rotation>
+      <X>0.0</X>
+      <Y>0.0</Y>
+      <Z>31.0</Z>
+    </Rotation>
+  </Bench>
+</Benches>

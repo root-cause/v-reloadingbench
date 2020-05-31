@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Materials>
+  <!-- Base Materials -->
+  <Material id="lead" name="Lead" />
+  <Material id="gunpowder" name="Gunpowder" />
+
+  <!-- Casings -->
+  <Material id="casing_small" name="Empty Casing (Small)" />
+  <Material id="casing_big" name="Empty Casing (Big)" />
+  <Material id="casing_shotgun" name="Empty Shell" />
+
+  <!-- MkII Materials -->
+  <Material id="explosive" name="Explosive" />
+  <Material id="comp_incendiary" name="Incendiary Compound" />
+  <Material id="comp_tracer" name="Tracer Compound" />
+</Materials>

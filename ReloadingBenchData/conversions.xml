@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Conversions>
+  <!-- Pistol ammo types -->
+  <Conversion ammoType="AMMO_PISTOL">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="1" />
+      <Material id="gunpowder" min="1" max="2" />
+      <Material id="casing_small" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="1" />
+      <Material id="gunpowder" amount="2" />
+      <Material id="casing_small" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_PISTOL_FMJ">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="2" />
+      <Material id="casing_small" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="gunpowder" amount="2" />
+      <Material id="casing_small" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_PISTOL_HOLLOWPOINT">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="1" />
+      <Material id="gunpowder" min="1" max="2" />
+      <Material id="casing_small" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="1" />
+      <Material id="gunpowder" amount="2" />
+      <Material id="casing_small" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_PISTOL_INCENDIARY">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="1" />
+      <Material id="comp_incendiary" min="1" max="1" />
+      <Material id="gunpowder" min="1" max="2" />
+      <Material id="casing_small" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="1" />
+      <Material id="comp_incendiary" amount="1" />
+      <Material id="gunpowder" amount="2" />
+      <Material id="casing_small" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_PISTOL_TRACER">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="1" />
+      <Material id="comp_tracer" min="1" max="1" />
+      <Material id="gunpowder" min="1" max="2" />
+      <Material id="casing_small" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="1" />
+      <Material id="comp_tracer" amount="1" />
+      <Material id="gunpowder" amount="2" />
+      <Material id="casing_small" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <!-- SMG ammo types (should be the same as pistol) -->
+  <Conversion ammoType="AMMO_SMG">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="1" />
+      <Material id="gunpowder" min="1" max="2" />
+      <Material id="casing_small" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="1" />
+      <Material id="gunpowder" amount="2" />
+      <Material id="casing_small" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_SMG_FMJ">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="2" />
+      <Material id="casing_small" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="gunpowder" amount="2" />
+      <Material id="casing_small" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_SMG_HOLLOWPOINT">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="1" />
+      <Material id="gunpowder" min="1" max="2" />
+      <Material id="casing_small" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="1" />
+      <Material id="gunpowder" amount="2" />
+      <Material id="casing_small" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_SMG_INCENDIARY">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="1" />
+      <Material id="comp_incendiary" min="1" max="1" />
+      <Material id="gunpowder" min="1" max="2" />
+      <Material id="casing_small" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="1" />
+      <Material id="comp_incendiary" amount="1" />
+      <Material id="gunpowder" amount="2" />
+      <Material id="casing_small" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_SMG_TRACER">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="1" />
+      <Material id="comp_tracer" min="1" max="1" />
+      <Material id="gunpowder" min="1" max="2" />
+      <Material id="casing_small" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="1" />
+      <Material id="comp_tracer" amount="1" />
+      <Material id="gunpowder" amount="2" />
+      <Material id="casing_small" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <!-- Shotgun ammo types -->
+  <Conversion ammoType="AMMO_SHOTGUN">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="1" />
+      <Material id="gunpowder" min="1" max="2" />
+      <Material id="casing_shotgun" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="1" />
+      <Material id="gunpowder" amount="2" />
+      <Material id="casing_shotgun" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_SHOTGUN_ARMORPIERCING">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_shotgun" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_shotgun" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_SHOTGUN_EXPLOSIVE">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="1" />
+      <Material id="explosive" min="1" max="1" />
+      <Material id="gunpowder" min="1" max="2" />
+      <Material id="casing_shotgun" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="1" />
+      <Material id="explosive" amount="1" />
+      <Material id="gunpowder" amount="2" />
+      <Material id="casing_shotgun" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_SHOTGUN_HOLLOWPOINT">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="1" />
+      <Material id="gunpowder" min="1" max="2" />
+      <Material id="casing_shotgun" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="1" />
+      <Material id="gunpowder" amount="2" />
+      <Material id="casing_shotgun" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_SHOTGUN_INCENDIARY">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="1" />
+      <Material id="comp_incendiary" min="1" max="1" />
+      <Material id="gunpowder" min="1" max="2" />
+      <Material id="casing_shotgun" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="1" />
+      <Material id="comp_incendiary" amount="1" />
+      <Material id="gunpowder" amount="2" />
+      <Material id="casing_shotgun" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <!-- Rifle ammo types -->
+  <Conversion ammoType="AMMO_RIFLE">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_RIFLE_ARMORPIERCING">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="4" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="gunpowder" amount="4" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_RIFLE_FMJ">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="3" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="3" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_RIFLE_INCENDIARY">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="comp_incendiary" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="comp_incendiary" amount="2" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_RIFLE_TRACER">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="comp_tracer" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="comp_tracer" amount="2" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <!-- MG ammo types (should be the same as rifle) -->
+  <Conversion ammoType="AMMO_MG">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_MG_ARMORPIERCING">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="4" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="gunpowder" amount="4" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_MG_FMJ">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="3" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="3" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_MG_INCENDIARY">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="comp_incendiary" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="comp_incendiary" amount="2" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_MG_TRACER">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="comp_tracer" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="comp_tracer" amount="2" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <!-- Sniper ammo types (should be the same as rifle) -->
+  <Conversion ammoType="AMMO_SNIPER">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_SNIPER_ARMORPIERCING">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="4" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="gunpowder" amount="4" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_SNIPER_EXPLOSIVE">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="explosive" min="1" max="1" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="explosive" amount="1" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_SNIPER_FMJ">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="3" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="3" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_SNIPER_INCENDIARY">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="comp_incendiary" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="comp_incendiary" amount="2" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <Conversion ammoType="AMMO_SNIPER_TRACER">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="comp_tracer" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="comp_tracer" amount="2" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+
+  <!-- Misc. -->
+  <Conversion ammoType="AMMO_MINIGUN">
+    <BreakDownMaterials>
+      <Material id="lead" min="1" max="2" />
+      <Material id="gunpowder" min="1" max="3" />
+      <Material id="casing_big" min="1" max="1" />
+    </BreakDownMaterials>
+    <CraftingMaterials>
+      <Material id="lead" amount="2" />
+      <Material id="gunpowder" amount="3" />
+      <Material id="casing_big" amount="1" />
+    </CraftingMaterials>
+  </Conversion>
+</Conversions>
